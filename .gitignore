@@ -1,0 +1,11 @@
+# Lean / Lake build output
+lean/.lake/
+lean/lake-packages/
+lean/build/
+*.olean
+*.ilean
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.DS_Store
