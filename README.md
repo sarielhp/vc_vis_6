@@ -72,6 +72,11 @@ refutes the remaining 62 cases from 1,596 certificate files. Theorem and
 section numbers in the Lean comments refer to that earlier manuscript.
 The paper instead checks DRAT certificates for all 74 cases.
 
+## License
+
+TBD. The bundled `drat-trim` checker keeps its own license
+([`certificates/drat-trim/LICENSE`](certificates/drat-trim/LICENSE)).
+
 ## Authors
 
 - Dror Aiger
