@@ -74,7 +74,8 @@ The paper instead checks DRAT certificates for all 74 cases.
 
 ## License
 
-TBD. The bundled `drat-trim` checker keeps its own license
+All rights reserved (see [`LICENSE`](LICENSE)). The bundled `drat-trim`
+checker keeps its own license
 ([`certificates/drat-trim/LICENSE`](certificates/drat-trim/LICENSE)).
 
 ## Authors

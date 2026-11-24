@@ -1,6 +1,9 @@
-License: TBD.
+Copyright (c) 2026 Dror Aiger and Sariel Har-Peled.
+All rights reserved.
 
-The license for this repository has not been decided yet. Until a license
-is added, all rights are reserved by the authors. The bundled drat-trim
-checker in certificates/drat-trim/ is distributed under its own license
-(see certificates/drat-trim/LICENSE).
+No part of this repository may be copied, modified, redistributed, or
+used without prior written permission from the authors, except as
+expressly permitted by the GitHub Terms of Service.
+
+The bundled drat-trim checker in certificates/drat-trim/ is distributed
+under its own license (see certificates/drat-trim/LICENSE).
